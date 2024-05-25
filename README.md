@@ -5,6 +5,25 @@
 Descrição da Aplicação
 Esta aplicação foi desenvolvida para ajudar os entusiastas da astronomia a aprimorarem suas habilidades de observação de astros. O programa oferece diversas imagens de galáxias, e o usuário deve identificar quantas delas estão mais adequadas visualmente para serem analisadas posteriormente. Utilizamos métodos de processamento digital de imagens para contar o número de corpos celestes visíveis. Assim, o usuário pode comparar sua contagem manual com a do programa e verificar seus acertos.
 
+## Instalação e Execução
+
+### Pré-requisitos
+
+Certifique-se de ter o Python 3.x instalado. Além disso, você precisará dos seguintes pacotes Python:
+
+- pandas
+- numpy
+- matplotlib
+- scikit-image
+
+### Instalação dos Pacotes
+
+Você pode instalar os pacotes necessários utilizando o `pip`. Execute o seguinte comando no terminal:
+
+```bash
+pip install pandas numpy matplotlib scikit-image
+```
+
 ## Como Executar o Código
 
 1. Clone o repositório para o seu ambiente local:
